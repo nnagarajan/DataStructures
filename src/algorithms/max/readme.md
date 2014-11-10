@@ -9,4 +9,4 @@ Algorithm to find max occurrence of a character in a string
 
 Algorithm finds the max occurrence with O(n) complexity     
      
-Groovy and JUnit included
+Spock Test and JUnit included
