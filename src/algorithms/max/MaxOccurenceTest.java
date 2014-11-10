@@ -3,7 +3,7 @@ package algorithms.max;
 import org.junit.Test;
 
 /**
- * Created by nanagarajan on 11/5/2014.
+ * Created by nnagarajan on 11/5/2014.
  */
 public class MaxOccurenceTest {
 

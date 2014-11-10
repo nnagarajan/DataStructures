@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by nanagarajan on 11/5/2014.
+ * Created by nnagarajan on 11/5/2014.
  */
 public class MaxOccurence {
 
