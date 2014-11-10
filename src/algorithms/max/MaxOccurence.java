@@ -1,6 +1,7 @@
 package algorithms.max;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Created by nanagarajan on 11/5/2014.
@@ -18,7 +19,7 @@ public class MaxOccurence {
 
         // throw exception when input is empty
         if (input == null)
-            throw new RuntimeException("input string is empty");
+            throw new RuntimeException("Input string is empty");
 
         char[] arrayInput = input.toCharArray();
 
